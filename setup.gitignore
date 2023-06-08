@@ -1,2 +1,5 @@
 # ignore Mac system files
 .DS_store
+
+# ignore ipnyb checkpoints
+.ipynb_checkpoint
