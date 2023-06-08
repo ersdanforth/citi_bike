@@ -2,4 +2,4 @@
 .DS_store
 
 # ignore ipnyb checkpoints
-.ipynb_checkpoint
+.ipynb_checkpoints
