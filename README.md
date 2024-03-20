@@ -1,2 +1,2 @@
 # citi_bike
-Data visualizations of NYC CitiBike trip data
+Visualization of spatial and temporal distribution of CitiBike bicycles to understand how usage varies across the city
